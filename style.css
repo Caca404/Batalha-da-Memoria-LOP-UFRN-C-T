@@ -1,0 +1,157 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.btn{
+  padding: 10px;
+  background-color: #1D2881;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  width: 140px;
+  height: 50px;
+  font-size: 18px;
+  box-shadow: 0px 4px 5px 2px rgba(0, 0, 0, 0.4);
+}
+
+.btn:hover{
+  color: rgb(228,228,228);
+  border: 1px solid rgb(106,123,255);
+}
+
+.title-secondary{
+  color: white;
+  font-family: Arial;
+  font-size: 22px;
+}
+
+.title-primary{
+  color: white;
+  font-family: Arial;
+  font-size: 32px;
+}
+
+#divVitoriaLabel{
+  text-align: center;
+  width: 620px;
+  z-index: 10;
+  background-color: rgba(0,0,0, 0.5);
+  backdrop-filter: blur(5px);
+}
+
+#divVitoriaLabel h2{
+  color: rgb(236,236,236);
+  font-family: 'arial';
+}
+
+.card{
+  width: 45px;
+  height: 55px;
+  background-image: url('imgs/hidden.jpg') !important;
+}
+
+.card-face{
+  width: 45px;
+  height: 55px;
+  border: 1px solid black;
+}
+.brasil{
+  background-image: url('imgs/Brasil.jpg');
+}
+.inglaterra{
+  background-image: url('imgs/Inglaterra.jpg');
+}
+.franca{
+  background-image: url('imgs/Franca.jpg');
+}
+.marrocos{
+  background-image: url('imgs/Marrocos.jpg');
+}
+.uruguai{
+  background-image: url('imgs/Uruguai.jpg');
+}
+.belgica{
+  background-image: url('imgs/Belgica.jpg');
+}
+.japao{
+  background-image: url('imgs/Japao.jpg');
+}
+.alemanha{
+  background-image: url('imgs/Alemanha.jpg');
+}
+.romenia{
+  background-image: url('imgs/Romenia.jpg');
+}
+.chade{
+  background-image: url('imgs/Chade.jpg');
+}
+.grecia{
+  background-image: url('imgs/Grecia.jpg');
+}
+.italia{
+  background-image: url('imgs/Italia.jpg');
+}
+.ucrania{
+  background-image: url('imgs/Ucrania.jpg');
+}
+.polonia{
+  background-image: url('imgs/Polonia.jpg');
+}
+.indonesia{
+  background-image: url('imgs/Indonesia.jpg');
+}
+.russia{
+  background-image: url('imgs/Russia.jpg');
+}
+.noruega{
+  background-image: url('imgs/Noruega.jpg');
+}
+.finlandia{
+  background-image: url('imgs/Finlandia.jpg');
+}
+.suica{
+  background-image: url('imgs/Suica.jpg');
+}
+.gana{
+  background-image: url('imgs/Gana.jpg');
+}
+.senegal{
+  background-image: url('imgs/Senegal.jpg');
+}
+.camaroes{
+  background-image: url('imgs/Camaroes.jpg');
+}
+.catar{
+  background-image: url('imgs/Catar.jpg');
+}
+.dinamarca{
+  background-image: url('imgs/Dinamarca.jpg');
+}
+.holanda{
+  background-image: url('imgs/Holanda.jpg');
+}
+.austria{
+  background-image: url('imgs/Austria.jpg');
+}
+.nigeria{
+  background-image: url('imgs/Nigeria.jpg');
+}
+.siria{
+  background-image: url('imgs/Siria.jpg');
+}
+.tcheca{
+  background-image: url('imgs/Tcheca.jpg');
+}
+.thailandia{
+  background-image: url('imgs/Thailandia.jpg');
+}
+.vietnam{
+  background-image: url('imgs/Vietnam.jpg');
+}
+.taiwan{
+  background-image: url('imgs/Taiwan.jpg');
+}
